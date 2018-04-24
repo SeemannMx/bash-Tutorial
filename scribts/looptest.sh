@@ -7,7 +7,7 @@ for i in $(ls); do
 done
 echo
 
-echo -xxxxxx 'while loop' xxxxxxxxxxxxxxxxxxx-
+echo -xxxxxx 'whileloop' xxxxxxxxxxxxxxxxxxx-
 i=0
 while [ $i -lt 10 ]; do
 	echo item whileLoop $i
